@@ -9,9 +9,9 @@
 </ol>
 
 ### My goals are:
-- [ ] To have a new hobby
-- [ ] To maitain my grades
-- [ ] To have fun
+- To have a new hobby
+- To maitain my grades
+- To have fun
 
 ### My favorite sites
 - [Roblox](https://roblox.com)
